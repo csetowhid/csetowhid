@@ -41,17 +41,6 @@
 </a>
 </p>
 
-### 👉 Operating Systems
-<p align="left"> 
-&emsp;
-<a href="https://www.kali.org"> 
-     <img alt="Kali Linux" src="https://img.shields.io/badge/Kali Linux-100000?style=for-the-badge&logo=kali-linux&logoColor=white">
-</a>
-<a href="https://www.microsoft.com/en-us/windows"> 
-     <img alt="Windows" src="https://img.shields.io/badge/Windows-0178d4?style=for-the-badge&logo=windows&logoColor=white">
-</a>
-</p>
-
 ### 👉 Frameworks and Libraries
 <p align="left"> 
 &emsp;
@@ -66,6 +55,17 @@
 </a> 
 <a href="https://tailwindcss.com"> 
     <img alt="TailwindCss" src="https://img.shields.io/badge/tailwindcss-07b6d5?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+</a>
+</p>
+
+### 👉 Operating Systems
+<p align="left"> 
+&emsp;
+<a href="https://www.kali.org"> 
+     <img alt="Kali Linux" src="https://img.shields.io/badge/Kali Linux-100000?style=for-the-badge&logo=kali-linux&logoColor=white">
+</a>
+<a href="https://www.microsoft.com/en-us/windows"> 
+     <img alt="Windows" src="https://img.shields.io/badge/Windows-0178d4?style=for-the-badge&logo=windows&logoColor=white">
 </a>
 </p>
 
