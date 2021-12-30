@@ -16,9 +16,9 @@
 
 - 👨🏽‍💻 I’m currently working on Frontend & Web Development ;
 - 🌱 I’m currently learning Laravel and Vue.js ; 
-- 👯 I’m looking to collaborate with Fullstack Web Developers.
-- 🤔 I’m looking for help with Open source Contribution.
-- 💬 Ask me about anything, I am happy to help;
+- 👯 I’m looking to collaborate with Fullstack Web Developers ;
+- 🤔 I’m looking for help with Open source Contribution ;
+- 💬 Ask me about anything, I am happy to help ;
 - 📝 [Resume](https://drive.google.com/file/d/1Y5KtnmMdKJ7YRVHuHGpA2qOqPJVj7M4z/view?usp=sharing)
 
 ## 🛠️ My Skills
